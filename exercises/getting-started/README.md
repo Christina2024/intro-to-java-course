@@ -62,7 +62,6 @@ java com.cbfacademy.HelloWorld
 ```
 
 :tada: Our program prints the following on your screen.
-
 ```bash
 Hello World!
 ```
